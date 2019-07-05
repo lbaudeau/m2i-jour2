@@ -1,0 +1,10 @@
+# ignore everything except .gitignore and folders that I care about:
+
+#ignorer le fichier suivant :
+config.yaml
+
+# ignore le repertoire de logs et son contenu
+/logs/*
+# sauf le fichier .gitkeep
+# > Attention cette ligne doit se situer apres la precedentes (/logs/
+!/logs/.gitkeep
