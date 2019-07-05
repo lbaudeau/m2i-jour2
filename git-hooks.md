@@ -15,11 +15,19 @@ Cotés client :
 - post-commit
 - pre-rebase
 
+cotés serveur 
+- pre-push
+- post-rewrite
+- post-merge
+- post-checkout
 
 
-cotéss serveur 
 
 
 
+
+
+
+verifier labscence de ligne blanche en fin de fichiersdir
 
 
