@@ -24,3 +24,8 @@ creer un fichier .gitignore
 ```bash
 echo 'xxx' > .gitignore 
 ```
+
+
+# Récuperer un comit spécifique
+
+git cherry-pick hash
