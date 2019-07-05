@@ -28,4 +28,9 @@ echo 'xxx' > .gitignore
 
 # Récuperer un comit spécifique
 
+permet dde recuperer un commit spécifique
+
+```bash
 git cherry-pick hash
+```
+
